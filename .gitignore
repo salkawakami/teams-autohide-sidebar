@@ -1,9 +1,0 @@
-.DS_Store
-.vscode/
-*.swp
-*~
-node_modules/
-
-# Internal dev files (not for public repo)
-CLAUDE.md
-PROJECT_CHECKLIST.md
